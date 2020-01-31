@@ -15,7 +15,7 @@
 	"text_tip": "TEKST STIJLEN",
 	"close_tip": "SLUITEN",
 	"submit_tip": "TOEVOEGEN",
-	"search_title": "Search",	
+	"search_title": "Search",
 	"edit_bg_tip": "BEWERK ACHTERGROND FOTO",
 	"upload_tip": "Klik hier om mijn bestanden te uploaden",
 	"custom_color_tip": "Voeg een custom kleur toe",
@@ -146,7 +146,7 @@
 	"welcome": "Welcome",
 	"close_title": "Close Application ?",
 	"poor_browser": "We're sorry, your browser is outdated. Kindly try a different browser.",
-	"confirm_design": "Bevestig uw ontwerp"
+	"confirm_design": "Bevestig uw ontwerp",
 	"toggle_grid": "Toggle Grid lines",
 	"modules": {
 		"variable-data": {
